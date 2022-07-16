@@ -1,6 +1,5 @@
-security:
-  basic:
-    enabled: true
-  user:
-    name: eurekauser
-    password: eurekapassword
+spring:
+  security:
+    user:
+      name: eurekauser
+      password: eurekapassword
