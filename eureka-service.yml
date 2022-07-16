@@ -1,5 +1,7 @@
 spring:
   security:
+    basic:
+      enabled: true
     user:
       name: eurekauser
       password: eurekapassword
